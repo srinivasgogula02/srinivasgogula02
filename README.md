@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**srinivasgogula02/srinivasgogula02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 I'm Srinivas Gogula, I enjoy building and creating things with code, always eager to learn and explore new technologies. Currently, I am  specializing in Python.
 
 - 🔭 I’m currently working on building a game changer
@@ -15,5 +14,3 @@ I'm Srinivas Gogula, I enjoy building and creating things with code, always eage
 - 🔗 LinkedIn: https://www.linkedin.com/in/srinivasgogula
 - 🐦 Twitter: https://twitter.com/srinivas_g_
 
-
--->
