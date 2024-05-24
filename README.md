@@ -7,7 +7,7 @@ I'm Srinivas Gogula, I enjoy building and creating things with code, always eage
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on any innovative idea 
 - 🤔 I’m looking for help with python, DSA, AI and ML 
-  ____
+ ____
 ### 📫 Let's Connect
 
 <div id="badges">
@@ -19,7 +19,9 @@ I'm Srinivas Gogula, I enjoy building and creating things with code, always eage
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-____
+
+ ____
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -28,7 +30,9 @@ ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
-____
+
+ ____
+ 
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasgogula02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
